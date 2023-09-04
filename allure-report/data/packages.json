@@ -1,0 +1,21 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_practice",
+    "children" : [ {
+      "name" : "test_search_valid_product",
+      "uid" : "d76996a57a631843",
+      "parentUid" : "b0df45af10ab782062af25f070a9427c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1693226093335,
+        "stop" : 1693226094226,
+        "duration" : 891
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "b0df45af10ab782062af25f070a9427c"
+  } ]
+}

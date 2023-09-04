@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-GHG70G5",
+    "children" : [ {
+      "name" : "5776-MainThread",
+      "children" : [ {
+        "name" : "test_search_valid_product",
+        "uid" : "d76996a57a631843",
+        "parentUid" : "a6a2d4243f61a96ded69ec8ec2a892dc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693226093335,
+          "stop" : 1693226094226,
+          "duration" : 891
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a6a2d4243f61a96ded69ec8ec2a892dc"
+    } ],
+    "uid" : "667847738abd0ef24cc8ba298e3e5e48"
+  } ]
+}

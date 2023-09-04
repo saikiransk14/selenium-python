@@ -1,0 +1,25 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_practice",
+    "children" : [ {
+      "name" : "Testpractice",
+      "children" : [ {
+        "name" : "test_search_valid_product",
+        "uid" : "d76996a57a631843",
+        "parentUid" : "d42dea2ff5c19e80ea29c2163251815a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693226093335,
+          "stop" : 1693226094226,
+          "duration" : 891
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d42dea2ff5c19e80ea29c2163251815a"
+    } ],
+    "uid" : "81c2e325b27af253335aa18b6a370bb1"
+  } ]
+}

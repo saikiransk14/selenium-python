@@ -1,0 +1,22 @@
+{
+  "a4ceea14e924b047e0b45ad4a82bc100" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "60887ec812368789",
+      "reportUrl" : "http://localhost:8080/job/project%201/1/allure/#testresult/60887ec812368789",
+      "status" : "passed",
+      "time" : {
+        "start" : 1693226093335,
+        "stop" : 1693226094226,
+        "duration" : 891
+      }
+    } ]
+  }
+}
